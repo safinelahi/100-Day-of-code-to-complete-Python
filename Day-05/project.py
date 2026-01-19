@@ -13,7 +13,7 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 
 # Easy Version
 # Generate the password in sequence. Letters, then symbols, then numbers. If the user wants
-# 4 letters 2 symbols and 3 numbers then the password might look like this: fgdx$*924
+# 4 letters 2 symbols and 3 numbers then the password might look like this: fgdx$*92
 
 password = ""
 
